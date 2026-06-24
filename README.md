@@ -95,6 +95,13 @@ I build robots on both sides of the industrial divide — hard real-time motion 
 - Expanding dev tooling: pre-commit hooks, unit tests, rosbag2-to-mcap conversion
 
 ---
+## 👁️ Computer Vision & Deep Learning
+ 
+**[cifar10-mobilenetv2-classifier](https://github.com/AakashKavi/cifar10-mobilenetv2-classifier)**
+&nbsp;·&nbsp; Transfer learning image classifier using MobileNetV2 pre-trained on ImageNet. Achieves 87.34% test accuracy on CIFAR-10 across 10 classes, trained entirely on CPU in under 30 minutes. Architecture chosen for its edge-deployment efficiency — relevant to AI inference on industrial robot controllers.
+&nbsp;`TensorFlow` &nbsp;`Keras` &nbsp;`MobileNetV2` &nbsp;`Transfer Learning` &nbsp;`CIFAR-10`
+ 
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AakashKavi&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
