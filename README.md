@@ -98,7 +98,6 @@ I build robots on both sides of the industrial divide — hard real-time motion 
 ## 🚧 In Progress
 
 - Unblocking PCL perception pipeline on the UR5 project — debugging empty point clouds from Gazebo's new renderer
-- Integrating **Foxglove Studio** + **MCAP** logging for ROS 2 bag visualization
 - Adding **Jenkins** in Docker as a local CI complement to GitHub Actions
 - Expanding dev tooling: pre-commit hooks, unit tests, rosbag2-to-mcap conversion
 
