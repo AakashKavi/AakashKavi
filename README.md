@@ -105,11 +105,5 @@ I build robots on both sides of the industrial divide — hard real-time motion 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AakashKavi&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashKavi&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AakashKavi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
