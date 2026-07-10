@@ -77,8 +77,8 @@ I build robots on both sides of the industrial divide — hard real-time motion 
 
 ## 🤖 Robotics & Perception
 
-**[orbslam3-turtlebot3-ros2](https://github.com/AakashKavi/slam-vision-ros2_KITTI_dataset)**
-&nbsp;·&nbsp; Monocular Visual SLAM with ORB-SLAM3 on TurtleBot3 Gazebo. CI pipeline, Docker, MCAP logging.
+**[slam-vision-ros2_KITTI_dataset](https://github.com/AakashKavi/slam-vision-ros2_KITTI_dataset)**
+&nbsp;·&nbsp; A Visual SLAM implementation using RTAB-Map in stereo mode with the KITTI odometry dataset, built on ROS2 Humble..
 &nbsp;`ROS 2` &nbsp;`ORB-SLAM3` &nbsp;`Docker` &nbsp;`GitHub Actions`
 
 **[ur5-vision-pick-place](https://github.com/AakashKavi/ros2_ur5_vision_grasp)**
