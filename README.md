@@ -81,7 +81,7 @@ I build robots on both sides of the industrial divide — hard real-time motion 
 &nbsp;·&nbsp; A Visual SLAM implementation using RTAB-Map in stereo mode with the KITTI odometry dataset, built on ROS2 Humble..
 &nbsp;`ROS 2` &nbsp;`ORB-SLAM3` &nbsp;`Docker` &nbsp;`GitHub Actions`
 
-**[ur5-vision-pick-place](https://github.com/AakashKavi/ros2_ur5_vision_grasp)**
+**[pick-and-place-with-UR5](https://github.com/AakashKavi/pick-and-place-with-ur5)**
 &nbsp;·&nbsp; UR5 pick-and-place with MoveIt 2 motion planning and a PCL-based perception pipeline.
 &nbsp;`ROS 2` &nbsp;`MoveIt 2` &nbsp;`PCL` &nbsp;`OpenCV`
 
