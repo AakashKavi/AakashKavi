@@ -76,6 +76,9 @@ I build robots on both sides of the industrial divide — hard real-time motion 
 ---
 
 ## 🤖 Robotics & Perception
+**[Warehouse robotics: Advanced Navigation and Obstacle avoidance](https://github.com/AakashKavi/intralogistics-sim-with-diff-drive-robot)**
+&nbsp;·&nbsp;A differential-drive mobile robot simulation built on top of ros2_control.
+&nbsp;`ROS 2` &nbsp;`ROS2_controls` &nbsp;`Obstacle Avoidance` &nbsp;`Navigation` &nbsp;`Differential Drive Control`
 
 **[slam-vision-ros2_KITTI_dataset](https://github.com/AakashKavi/slam-vision-ros2_KITTI_dataset)**
 &nbsp;·&nbsp; A Visual SLAM implementation using RTAB-Map in stereo mode with the KITTI odometry dataset, built on ROS2 Humble..
